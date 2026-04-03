@@ -7,17 +7,11 @@ import javafx.stage.Stage;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-
 public class TicTacToeController {
 
-    @FXML
-    private Button closeBtn;
-
-    @FXML
-    public Text playerTurn;
-
-    @FXML
-    private Button restartBtn;
+    @FXML private Button closeBtn;
+    @FXML public Text playerTurn;
+    @FXML private Button restartBtn;
 
     @FXML private Button btn1;
     @FXML private Button btn2;
