@@ -1,7 +1,6 @@
 # JavaFX Tic Tac Toe
 
-A simple Tic Tac Toe game built using **JavaFX**, **FXML**, and **CSS**.  
-The project demonstrates clean controller logic, event handling, and UI separation using FXML.
+A simple Tic Tac Toe game built using **JavaFX**, **FXML**, and **CSS**.
 
 ---
 
